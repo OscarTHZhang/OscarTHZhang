@@ -4,5 +4,12 @@ Oscar (张天贺, Tianhe Zhang) is an undergraduate student at University of Wis
 ![Oscar's GitHub stats](https://github-readme-stats.vercel.app/api?username=OscarTHZhang&show_icons=true&theme=onedark&count_private=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OscarTHZhang&theme=onedark&layout=compact)
 
+- 🔭 I’m currently working on HTAP systems
+- 🌱 I’m currently learning distributed systems
+- 👯 I’m looking to collaborate on any Rust projects
+- 🤔 I’m looking for help with career in software engineering 
+- 😄 Pronouns: He/him/his
+- ⚡ Fun fact: Pulled over by a police due to stop sign violation riding a bike
+
 
 
